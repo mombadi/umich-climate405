@@ -10,5 +10,8 @@ This course aims to introduce students (primarily of Earth and Enviromental Scie
 ## Contents of this repository 
 This repository contains the following content:
 
-### Slides 
-Each lecture slides are provided in a separate folder. The slides are provided both as a Jupyter Notebook and HTML. The HTML version can be downloaded or viewed directly via your web browser without the need to install any software or download additional files. In order to run the live Jupyter notebooks, you can download the folder in your local machine, and then execute the code (requires installing Jupyter Notebooks in your machine; _see Notes section for more information_).    
+### Lecture Slides 
+Each lecture slides are provided in a separate folder. The slides are provided both as a Jupyter Notebook and HTML. The HTML version can be downloaded or viewed directly via your web browser without the need to install any software or download additional files. In order to run the live Jupyter notebooks, you can download the folder in your local machine, and then execute the code (requires installing Jupyter Notebooks in your machine; _see Notes section for more information_). 
+
+- Lecture 0: [Introduction to Class] ()
+- Lecture 1: [Stochastic and Deterministic systems; Random Variables; Review of Basic Statistics] (file:///Users/ombadi/Downloads/Lec1_climate405.html)

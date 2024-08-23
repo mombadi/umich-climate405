@@ -1,4 +1,4 @@
-# Machine Learning for Earth and Environmental Sciences (University of Michigan Climate 405, Fall 2024)
+# CLIMATE 405: Machine Learning for Earth and Environmental Sciences (University of Michigan, Fall 2024)
 Lecture materials for University of Michigan CLIMATE405 Machine Learning for Earth and Environmental Sciences (Fall 2024)
 @ Prof.Mohammed Ombadi (Email: ombadi@umich.edu)
 For any questions regarding this material, please contact Prof. Ombadi. Do not distribute any of the material in this repository before obtaining permission. 

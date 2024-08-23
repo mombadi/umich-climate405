@@ -26,3 +26,15 @@ Each lecture slides are provided in a separate folder. The slides are provided b
 
 ### Notes
 
+
+### Requirements 
+We will be using Python3, mainly working with the following packages:
+- numpy
+- scipy
+- pandas
+- statistics
+- matplotlib
+- sickit-learn
+
+Other packages will be used depending on the topics covered in each class. At the top of each Jupyter Notebook, you will find the required pacakages to execute the code under the heading "Import Libraries"
+

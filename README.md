@@ -25,7 +25,8 @@ Each lecture slides are provided in a separate folder. The slides are provided b
 
 
 ### Notes
-
+- How to install Jupyter Notebook for Mac [here](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-on-macos/)
+- How to install Jupyter Notebook for Windows [here](https://www.codecademy.com/article/setting-up-jupyter-notebook)
 
 ## Requirements 
 We will be using Python3, mainly working with the following packages:

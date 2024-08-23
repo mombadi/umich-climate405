@@ -27,7 +27,7 @@ Each lecture slides are provided in a separate folder. The slides are provided b
 ### Notes
 
 
-### Requirements 
+## Requirements 
 We will be using Python3, mainly working with the following packages:
 - numpy
 - scipy

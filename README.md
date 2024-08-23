@@ -18,8 +18,11 @@ Each lecture slides are provided in a separate folder. The slides are provided b
 - Lecture 2: [Probability Distributions; Model Evaluation Metrics] ()
 
 
-### Homework Assignments 
-
+### Homework Assignments
+Homework assignments will be posted here on Wednesdays. See lecture notes for more information on homework policy.
+- Homework 1 [here]()
+- Homework 2 [here]()
+- Homework 3 [here]()
 
 
 

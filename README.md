@@ -28,8 +28,8 @@ Homework assignments will be posted here on Wednesdays. See lecture notes for mo
 
 
 ### Notes
-- How to install Jupyter Notebook for Mac [here](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-on-macos/)
-- How to install Jupyter Notebook for Windows [here](https://www.codecademy.com/article/setting-up-jupyter-notebook)
+- How to install Jupyter Notebook for _Mac_ [here](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-on-macos/)
+- How to install Jupyter Notebook for _Windows_ [here](https://www.codecademy.com/article/setting-up-jupyter-notebook)
 
 ## Requirements 
 We will be using Python3, mainly working with the following packages:

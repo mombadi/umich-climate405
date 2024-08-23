@@ -15,3 +15,4 @@ Each lecture slides are provided in a separate folder. The slides are provided b
 
 - Lecture 0: [Introduction to Class] ()
 - Lecture 1: [Stochastic and Deterministic systems; Random Variables; Review of Basic Statistics] (file:///Users/ombadi/Downloads/Lec1_climate405.html)
+- Lecture 2: [Probability Distributions; Model Evaluation Metrics] ()

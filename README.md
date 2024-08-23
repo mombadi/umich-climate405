@@ -6,3 +6,9 @@ This course aims to introduce students (primarily of Earth and Enviromental Scie
 
 - The Canvas coursespace can be accessed [here] (https://umich.instructure.com/courses/710364)
 - The course syllabus is available [here] (https://clasp.engin.umich.edu/wp-content/uploads/sites/6/2024/02/Syllabus_Machine-Learning-in-Environmental-Sciences.pdf)
+
+## Contents of this repository 
+This repository contains the following content:
+
+### Slides 
+Each lecture slides are provided in a separate folder. The slides are provided both as a Jupyter Notebook and PDF. The PDFs can be downloaded or viewed in the web browser regularly. In order to run the live Jupyter notebooks, you can download the folder in your local machine, and then execute the code in your local machine.    

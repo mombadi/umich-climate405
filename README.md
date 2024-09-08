@@ -16,8 +16,10 @@ This repository contains the following content:
 Each lecture slides are provided in a separate folder. The slides are provided both as a Jupyter Notebook and HTML. The HTML version can be downloaded or viewed directly via your web browser without the need to install any software or download additional files. In order to run the live Jupyter notebooks, you can download the folder in your local machine, and then execute the code (requires installing Jupyter Notebooks in your machine; _see Notes section for more information_). 
 
 - Lecture 0: [Introduction to Class](https://github.com/mombadi/umich-climate405/blob/887610b92860e47efa584aaf114bacb14766346b/slides/Lec0_climate405.ipynb)
-- Lecture 1: [Stochastic and Deterministic systems; Random Variables; Review of Basic Statistics] (file:///Users/ombadi/Downloads/Lec1_climate405.html)
-- Lecture 2: [Probability Distributions; Model Evaluation Metrics] ()
+- Lecture 1: [Stochastic and Deterministic systems; Random Variables; Review of Basic Statistics](https://github.com/mombadi/umich-climate405/blob/887610b92860e47efa584aaf114bacb14766346b/slides/Lec1_climate405.ipynb))
+- Lecture 2: [Probability Distributions; Model Evaluation Metrics](https://github.com/mombadi/umich-climate405/blob/887610b92860e47efa584aaf114bacb14766346b/slides/Lec2_climate405.ipynb)
+- Lecture 3: [Statistical Dependence, Hypothesis Testing and Statistical Significance](https://github.com/mombadi/umich-climate405/blob/887610b92860e47efa584aaf114bacb14766346b/slides/Lec2_climate405.ipynb)
+
 
 
 ### Homework Assignments

@@ -18,7 +18,7 @@ Each lecture slides are provided in a separate folder. The slides are provided b
 - Lecture 0: [Introduction to Class](https://github.com/mombadi/umich-climate405/blob/887610b92860e47efa584aaf114bacb14766346b/slides/Lec0_climate405.ipynb)
 - Lecture 1: [Stochastic and Deterministic systems; Random Variables; Review of Basic Statistics](https://github.com/mombadi/umich-climate405/blob/887610b92860e47efa584aaf114bacb14766346b/slides/Lec1_climate405.ipynb)
 - Lecture 2: [Probability Distributions; Model Evaluation Metrics](https://github.com/mombadi/umich-climate405/blob/887610b92860e47efa584aaf114bacb14766346b/slides/Lec2_climate405.ipynb)
-- Lecture 3: [Statistical Dependence, Hypothesis Testing and Statistical Significance](https://github.com/mombadi/umich-climate405/blob/887610b92860e47efa584aaf114bacb14766346b/slides/Lec2_climate405.ipynb)
+- Lecture 3: [Statistical Dependence, Hypothesis Testing and Statistical Significance](https://github.com/mombadi/umich-climate405/blob/887610b92860e47efa584aaf114bacb14766346b/slides/Lec3_climate405.ipynb)
 
 
 

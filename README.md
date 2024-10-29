@@ -64,3 +64,5 @@ We will be using Python3, mainly working with the following packages:
 
 Other packages will be used depending on the topics covered in each class. At the top of each Jupyter Notebook, you will find the required pacakages to execute the code under the heading "Import Libraries"
 
+## Attributions 
+- The Recurrent Neural Network application example in Lecture 14 is adapted from [Chollet & Allaire: Time Series Forecasting with Recurrent Neural Networks (RStudio AI blog)](https://blogs.rstudio.com/ai/posts/2017-12-20-time-series-forecasting-with-recurrent-neural-networks/)

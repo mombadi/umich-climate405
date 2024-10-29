@@ -66,3 +66,4 @@ Other packages will be used depending on the topics covered in each class. At th
 
 ## Attributions 
 - The Recurrent Neural Network application example in Lecture 14 is adapted from [Chollet & Allaire: Time Series Forecasting with Recurrent Neural Networks (RStudio AI blog)](https://blogs.rstudio.com/ai/posts/2017-12-20-time-series-forecasting-with-recurrent-neural-networks/)
+- The Singular Value Decomposition (SVD) example in Lecture 4 is adapted from Brunton and Kutz, Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control, Cambridge University Press (2017) 

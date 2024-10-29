@@ -15,22 +15,22 @@ This repository contains the following content:
 ### Lecture Slides 
 Each lecture slides are provided in a separate folder. The slides are provided both as a Jupyter Notebook and HTML. The HTML version can be downloaded or viewed directly via your web browser without the need to install any software or download additional files. In order to run the live Jupyter notebooks, you can download the folder in your local machine, and then execute the code (requires installing Jupyter Notebooks in your machine; _see Notes section for more information_). 
 
-- Lecture 0: [Introduction to Class](https://github.com/mombadi/umich-climate405/blob/68bf087950a88928578dc11d3a28dd00573af56b/slides/Lec_0/Lec0_climate405.ipynb)
+- Lecture 0: [Introduction to Class](slides/Lec_0/Lec0_climate405.ipynb)
 - Lecture 1: [Stochastic and Deterministic systems; Random Variables; Review of Basic Statistics](slides/Lec_01/Lec1_climate405.ipynb)
-- Lecture 2: [Probability Distributions; Model Evaluation Metrics](https://github.com/mombadi/umich-climate405/blob/887610b92860e47efa584aaf114bacb14766346b/slides/Lec2_climate405.ipynb)
-- Lecture 3: [Statistical Dependence, Hypothesis Testing and Statistical Significance](https://github.com/mombadi/umich-climate405/blob/887610b92860e47efa584aaf114bacb14766346b/slides/Lec3_climate405.ipynb)
-- Lecture 4: [Feature Selection, Dimensionality Reduction](https://github.com/mombadi/umich-climate405/blob/e9ed0dee4c56583ecc3b0dc7fba46c1e21fd2402/slides/Lec4_climate405.ipynb)
-- Lecture 5: [Supervised vs Unsupervised Learning, K-means Clustering]()
-- Lecture 6: [Hierarchical and Density-based Clustering Algorithms; Examples of Clustering in EES]()
-- Lecture 7: [Simple Linear Regression; Mutilple Linear Regression; Goodness of Fit]()
-- Lecture 8: [Choice of Loss Function; Regularization (Ridge and Lasso Regression)]()
-- Lecture 9: [Gradient Descent; The Anatomy of a Neural Network]()
-- Lecture 10: [Multilayer Perceptron: Applications in Hydrology; Activation Functions]()
+- Lecture 2: [Probability Distributions; Model Evaluation Metrics](slides/Lec_02/Lec2_climate405.ipynb)
+- Lecture 3: [Statistical Dependence, Hypothesis Testing and Statistical Significance](slides/Lec_03/Lec3_climate405.ipynb)
+- Lecture 4: [Feature Selection, Dimensionality Reduction](slides/Lec_04/Lec4_climate405.ipynb)
+- Lecture 5: [Supervised vs Unsupervised Learning, K-means Clustering](slides/Lec_05/Lec5_climate405.ipynb)
+- Lecture 6: [Hierarchical and Density-based Clustering Algorithms; Examples of Clustering in EES](slides/Lec_06/Lec6_climate405.ipynb)
+- Lecture 7: [Simple Linear Regression; Mutilple Linear Regression; Goodness of Fit](slides/Lec_07/Lec7_climate405.ipynb)
+- Lecture 8: [Choice of Loss Function; Regularization (Ridge and Lasso Regression)](slides/Lec_08/Lec8_climate405.ipynb)
+- Lecture 9: [Gradient Descent; The Anatomy of a Neural Network](slides/Lec_09/Lec9_climate405.ipynb)
+- Lecture 10: [Multilayer Perceptron: Applications in Hydrology; Activation Functions](slides/Lec_10/Lec10_climate405.ipynb)
 - Lecture 11: Hands-on Session
-- Lecture 12: [Decision Trees]()
-- Lecture 13: [Interpretability of Decision Trees, Feature Importance, Shapley Values]()
-- Lecture 14: [Recurrent Neural Networks]()
-- Lecture 15: [RNNs continued; Techniques used in training ML Models]()
+- Lecture 12: [Decision Trees](slides/Lec_12/Lec12_climate405.ipynb)
+- Lecture 13: [Interpretability of Decision Trees, Feature Importance, Shapley Values](slides/Lec_13/Lec13_climate405.ipynb)
+- Lecture 14: [Recurrent Neural Networks](slides/Lec_14/Lec14_climate405.ipynb)
+- Lecture 15: [RNNs continued; Techniques used in training ML Models](slides/Lec_15/Lec15_climate405.ipynb)
 - 
 
 

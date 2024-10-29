@@ -40,9 +40,10 @@ Each lecture slides are provided in a separate folder. The slides are provided b
 
 ### Homework Assignments
 Homework assignments will be posted here on Wednesdays. See lecture notes for more information on homework policy.
-- Homework 1 [here](https://github.com/mombadi/umich-climate405/blob/b0dc8f3b3c7260d0da90e15eb2e7fef6a469026e/hw-assignments/Homework%201.pdf)
-
-
+- **Homework 1**: [here](https://github.com/mombadi/umich-climate405/blob/b0dc8f3b3c7260d0da90e15eb2e7fef6a469026e/hw-assignments/Homework%201.pdf)
+- **Homework 2**:
+- **Homework 3**:
+- **Homework 4**:
 
 
 

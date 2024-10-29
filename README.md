@@ -20,6 +20,18 @@ Each lecture slides are provided in a separate folder. The slides are provided b
 - Lecture 2: [Probability Distributions; Model Evaluation Metrics](https://github.com/mombadi/umich-climate405/blob/887610b92860e47efa584aaf114bacb14766346b/slides/Lec2_climate405.ipynb)
 - Lecture 3: [Statistical Dependence, Hypothesis Testing and Statistical Significance](https://github.com/mombadi/umich-climate405/blob/887610b92860e47efa584aaf114bacb14766346b/slides/Lec3_climate405.ipynb)
 - Lecture 4: [Feature Selection, Dimensionality Reduction](https://github.com/mombadi/umich-climate405/blob/e9ed0dee4c56583ecc3b0dc7fba46c1e21fd2402/slides/Lec4_climate405.ipynb)
+- Lecture 5: [Supervised vs Unsupervised Learning, K-means Clustering]()
+- Lecture 6: [Hierarchical and Density-based Clustering Algorithms; Examples of Clustering in EES]()
+- Lecture 7: [Simple Linear Regression; Mutilple Linear Regression; Goodness of Fit]()
+- Lecture 8: [Choice of Loss Function; Regularization (Ridge and Lasso Regression)]()
+- Lecture 9: [Gradient Descent; The Anatomy of a Neural Network]()
+- Lecture 10: [Multilayer Perceptron: Applications in Hydrology; Activation Functions]()
+- Lecture 11: Hands-on Session
+- Lecture 12: [Decision Trees]()
+- Lecture 13: [Interpretability of Decision Trees, Feature Importance, Shapley Values]()
+- Lecture 14: [Recurrent Neural Networks]()
+- Lecture 15: [RNNs continued; Techniques used in training ML Models]()
+- 
 
 
 

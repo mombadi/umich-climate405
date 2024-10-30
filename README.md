@@ -32,7 +32,7 @@ Each lecture slides are provided in a separate folder. The slides are provided b
 - **Lecture 14**: [Recurrent Neural Networks](slides/Lec_14/Lec14_climate405.ipynb)
 - **Guest Lecture**: [LSTM Applications in Hydrology](https://github.com/PeishiJiang/Guest-Lecture-CLIMATE405-UMich/blob/main/rainfall_runoff_modeling.ipynb)
 - **Lecture 15**: [RNNs continued; Techniques used in training ML Models](slides/Lec_15/Lec15_climate405.ipynb)
-- **Lecture 16**: Long-short Term Memory (LSTM) Networks
+- **Lecture 16**: Long Short-term Memory (LSTM) Networks
 - **Lecture 17**: Convolutional Neural Networks (CNNs)
 - **Lecture 18**: Applications of CNNs in Earth and Environmental Sciences
 
